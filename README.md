@@ -1,5 +1,5 @@
 # hello-world
-This is my first git project. Let's see how it goes.
+This is my first git project.
 
 So far so good. I'm required to write a brief description about myself so here goes.
 
